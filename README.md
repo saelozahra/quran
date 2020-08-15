@@ -8,13 +8,11 @@ Quran Api
 <br>دریافت کنید
 <hr>
 <br>
-#مثال
-دریافت آیه 555 به صورت html و با فونت tanha
+
+<h4>دریافت آیه 555 به صورت html و با فونت tanha</h4>
 https://w35.ir/quran/?id=555&type=html&font=tanha
-
-
-#مثال
-دریافت صفحه 3 قرآن 
+<br>
+<h4>دریافت صفحه 3 قرآن </h4>
 https://w35.ir/quran/?page=3
-
+<br>
 التماس دعا
