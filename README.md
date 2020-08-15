@@ -6,3 +6,15 @@ Quran Api
 <br>در قالب عکس نوشته
 <br>در طرح ها و فونت های مختلف
 <br>دریافت کنید
+<hr>
+<br>
+#مثال
+دریافت آیه 555 به صورت html و با فونت tanha
+https://w35.ir/quran/?id=555&type=html&font=tanha
+
+
+#مثال
+دریافت صفحه 3 قرآن 
+https://w35.ir/quran/?page=3
+
+التماس دعا
